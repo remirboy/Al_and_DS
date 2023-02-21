@@ -1,0 +1,13 @@
+/Users/remir/Projects/quick_sort/quick_sort/bin/Debug/netcoreapp3.1/quick_sort.deps.json
+/Users/remir/Projects/quick_sort/quick_sort/bin/Debug/netcoreapp3.1/quick_sort.runtimeconfig.json
+/Users/remir/Projects/quick_sort/quick_sort/bin/Debug/netcoreapp3.1/quick_sort.runtimeconfig.dev.json
+/Users/remir/Projects/quick_sort/quick_sort/bin/Debug/netcoreapp3.1/quick_sort.dll
+/Users/remir/Projects/quick_sort/quick_sort/bin/Debug/netcoreapp3.1/quick_sort.pdb
+/Users/remir/Projects/quick_sort/quick_sort/obj/Debug/netcoreapp3.1/quick_sort.csproj.AssemblyReference.cache
+/Users/remir/Projects/quick_sort/quick_sort/obj/Debug/netcoreapp3.1/quick_sort.GeneratedMSBuildEditorConfig.editorconfig
+/Users/remir/Projects/quick_sort/quick_sort/obj/Debug/netcoreapp3.1/quick_sort.AssemblyInfoInputs.cache
+/Users/remir/Projects/quick_sort/quick_sort/obj/Debug/netcoreapp3.1/quick_sort.AssemblyInfo.cs
+/Users/remir/Projects/quick_sort/quick_sort/obj/Debug/netcoreapp3.1/quick_sort.csproj.CoreCompileInputs.cache
+/Users/remir/Projects/quick_sort/quick_sort/obj/Debug/netcoreapp3.1/quick_sort.dll
+/Users/remir/Projects/quick_sort/quick_sort/obj/Debug/netcoreapp3.1/quick_sort.pdb
+/Users/remir/Projects/quick_sort/quick_sort/obj/Debug/netcoreapp3.1/quick_sort.genruntimeconfig.cache

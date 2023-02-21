@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{971C431C-000E-4CD5-863B-6879CE3A1C1A}|Default">
+  <MonoDevelop.Ide.ItemProperties.matrix PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="matrix/Matrix.cs">
+    <Files>
+      <File FileName="matrix/Program.cs" Line="9" Column="41" />
+      <File FileName="matrix/Matrix.cs" Line="73" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="matrix" expanded="True">
+            <Node name="matrix" expanded="True">
+              <Node name="Matrix.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
