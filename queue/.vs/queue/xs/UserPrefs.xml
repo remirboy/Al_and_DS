@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{77DB4E6E-D926-45B3-BDCA-717F618C4816}|Default">
+  <MonoDevelop.Ide.ItemProperties.queue PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="queue/Program.cs">
+    <Files>
+      <File FileName="queue/Program.cs" Line="40" Column="23" />
+      <File FileName="queue/Stack.cs" />
+      <File FileName="queue/Queue.cs" />
+      <File FileName="queue/Node.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="queue" expanded="True">
+            <Node name="queue" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

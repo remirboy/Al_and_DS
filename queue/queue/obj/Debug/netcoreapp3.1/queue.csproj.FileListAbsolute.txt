@@ -1,0 +1,13 @@
+/Users/remir/Projects/Al_and_DS/queue/queue/bin/Debug/netcoreapp3.1/queue.deps.json
+/Users/remir/Projects/Al_and_DS/queue/queue/bin/Debug/netcoreapp3.1/queue.runtimeconfig.json
+/Users/remir/Projects/Al_and_DS/queue/queue/bin/Debug/netcoreapp3.1/queue.runtimeconfig.dev.json
+/Users/remir/Projects/Al_and_DS/queue/queue/bin/Debug/netcoreapp3.1/queue.dll
+/Users/remir/Projects/Al_and_DS/queue/queue/bin/Debug/netcoreapp3.1/queue.pdb
+/Users/remir/Projects/Al_and_DS/queue/queue/obj/Debug/netcoreapp3.1/queue.csproj.AssemblyReference.cache
+/Users/remir/Projects/Al_and_DS/queue/queue/obj/Debug/netcoreapp3.1/queue.GeneratedMSBuildEditorConfig.editorconfig
+/Users/remir/Projects/Al_and_DS/queue/queue/obj/Debug/netcoreapp3.1/queue.AssemblyInfoInputs.cache
+/Users/remir/Projects/Al_and_DS/queue/queue/obj/Debug/netcoreapp3.1/queue.AssemblyInfo.cs
+/Users/remir/Projects/Al_and_DS/queue/queue/obj/Debug/netcoreapp3.1/queue.csproj.CoreCompileInputs.cache
+/Users/remir/Projects/Al_and_DS/queue/queue/obj/Debug/netcoreapp3.1/queue.dll
+/Users/remir/Projects/Al_and_DS/queue/queue/obj/Debug/netcoreapp3.1/queue.pdb
+/Users/remir/Projects/Al_and_DS/queue/queue/obj/Debug/netcoreapp3.1/queue.genruntimeconfig.cache
